@@ -1,0 +1,5 @@
+Multi Authentication Admin and User login system.
+
+db name= ecom_project
+colum name= id,name,email,password,phone,address,usertype
+
